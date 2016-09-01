@@ -1,2 +1,3 @@
-# ng2ExFiles
-ng2 templating ex files
+### Angular 2 Documentation Example 
+
+Tour of Heroes: Part 6
